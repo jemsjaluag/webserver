@@ -1,3 +1,3 @@
 # webserver
 
- A small sample webserver made in Python. Shows simple operation such as retrieving a page.
+ A small group project web server made in Python. Shows simple operation such as retrieving a page.
